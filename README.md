@@ -13,7 +13,7 @@ $ git clone https://github.com/axbkts/Borsa-Istanbul-Basic-Stock-Search-Engine.g
 $ pip install PyQt6 BeautifulSoup4 requests
 
 3. Run the program :
-$ python main.py
+$ python borsa_taslak.py
 
 ## Files in this project
 borsa_taslak.py: Contains the main PyQt6 UI setup and logic for the application.
@@ -27,7 +27,7 @@ $ git clone https://github.com/axbkts/Borsa-Istanbul-Basic-Stock-Search-Engine.g
 $ pip install PyQt6 BeautifulSoup4 requests
 
 3. Programı çalıştırın :
-$ python main.py
+$ python borsa_taslak.py
 
 ## Bu Projedeki Dosyalar
 borsa_taslak.py: Uygulamanın ana PyQt6 kullanıcı arayüzü (UI) kurulumu ve mantığını içerir.  
