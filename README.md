@@ -32,3 +32,6 @@ $ python borsa_taslak.py
 ## Bu Projedeki Dosyalar
 borsa_taslak.py: Uygulamanın ana PyQt6 kullanıcı arayüzü (UI) kurulumu ve mantığını içerir.  
 borsa_gui.py: Uygulamayı çalıştıran dosyadır.
+
+![borsa](https://github.com/user-attachments/assets/84ca0f6d-959e-4f8f-97f4-6fd725a96fdb)
+
